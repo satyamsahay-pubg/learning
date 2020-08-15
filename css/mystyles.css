@@ -86,6 +86,10 @@ hr{
 .footer-link{
   color:#11999E;
   margin:20px 20px auto auto;
+ text-decoration:none;
+}
+a:hover{
+   color:#EAF6F6;
 }
 .copyright{
   color:#EAF6F6;

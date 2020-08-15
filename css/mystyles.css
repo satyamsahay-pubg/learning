@@ -53,13 +53,12 @@ hr{
   top:100px;
 }
 .middle-container{
+	margin:100px auto;
 
 }
 .bottom-container{
-  margin-top:100px;
   background-color:#66BFBF;
-  height:165px;
-  width:100%;
+  padding:50px 0 20px;
 
 }
 .profile-pic{
@@ -93,6 +92,7 @@ a:hover{
 }
 .copyright{
   color:#EAF6F6;
+  padding:20px 0;
 }
 .myButton {
 	box-shadow: 0px 0px 0px 2px #9fb4f2;
